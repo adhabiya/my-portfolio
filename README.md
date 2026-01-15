@@ -1,28 +1,33 @@
-# Personal Portfolio Website - Shashank Raj
+# Personal Portfolio Website - Adhabiya Ummer
 
-A clean, modern, and highly performant personal portfolio website built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**. This template is designed to be easily customizable and showcases a professional, animation-rich user interface.
+A clean, modern, and fully responsive personal portfolio website built using React, Vite, Tailwind CSS, and Framer Motion.
+This project showcases my academic background, technical skills, web development projects, and includes a functional contact form for easy communication.
 
-It features a multi-page architecture with dedicated sections for an introduction, skills, education, projects, competitive programming achievements, and a functional contact form.
-
----
-
-## 🚀 Live Demo
-
-[**View Portfolio on Vercel**](https://shashank-raj-portfolio.vercel.app)
-
+The portfolio is designed with a professional UI, smooth animations, and optimized performance across all devices.
 ---
 
 ## ✨ Features
 
--   **Modern & Responsive UI:** Clean, minimalist design that looks great on all devices.
--   **Multi-Page Architecture:** Smooth client-side routing between all sections using React Router.
--   **Robust Animations:**
-    -   Seamless page transitions powered by Framer Motion.
-    -   Reliable "staggered entrance" animations for content on each page.
--   **Dark/Light Mode:** A beautiful, persistent theme toggle for user preference.
--   **Component-Based:** Built with reusable components for easy maintenance and customization.
--   **Contact Form Integration:** A functional contact form powered by Formspree.
--   **Performance-Optimized:** Fast load times and a smooth experience thanks to Vite and best practices.
+Modern & Responsive Design
+Works seamlessly on mobile, tablet, and desktop devices.
+
+Component-Based Architecture
+Clean, reusable React components for easy maintenance.
+
+Smooth Animations
+Page transitions and staggered animations using Framer Motion.
+
+Dark / Light Mode
+User-friendly theme toggle with saved preference.
+
+Skills & Projects Showcase
+Dedicated sections for skills, academics, and projects.
+
+Functional Contact Form
+Integrated with EmailJS to send messages directly to email (no backend required).
+
+High Performance
+Fast builds and loading times powered by Vite.
 
 ---
 
@@ -55,7 +60,8 @@ Make sure you have Node.js and npm installed on your machine.
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/shashank2401/react-vite-tailwind-portfolio-template.git
+    git clone git clone https://github.com/adhabiya/my-portfolio.git
+
     ```
 2.  Install NPM packages
     ```sh
@@ -93,9 +99,3 @@ src/
 ├── App.jsx              # Main app component with routing
 └── main.jsx             # Entry point of the application
 ```
-
----
-
-## ✒️ Author
-
-**Shashank Raj**
